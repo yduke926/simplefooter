@@ -1,1 +1,2 @@
-# simple footer, a simple responsive footer
+# simple footer 
+a simple responsive footer
